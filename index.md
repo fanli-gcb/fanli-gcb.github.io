@@ -1,5 +1,5 @@
 ## Fan Li
-Sr. Bioinformatics Scientist, SC2 Core, Children's Hospital Los Angeles
+Sr. Bioinformatics Scientist, SC<sup>2</sup> Core, Children's Hospital Los Angeles
 
 Affiliate, Department of Pediatrics, UCLA
 
