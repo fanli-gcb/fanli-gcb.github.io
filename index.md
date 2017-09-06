@@ -7,7 +7,7 @@ Affiliate, Department of Pediatrics, UCLA
 ## Research
 Development and application of computational methods for analysis of metagenomic data. Integrative analyses with multi-omics datasets. Genomic applications in infectious disease settings. Also pretty pictures with R. 
 
-[My Github](github.com/fanli-gcb)
+[My Github](http://www.github.com/fanli-gcb)
 
 ## Education
 PhD, Genomics and Computational Biology, University of Pennsylvania
