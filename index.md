@@ -15,7 +15,7 @@ PhD, Genomics and Computational Biology, University of Pennsylvania
 BS, Electrical Engineering and Computer Sciences, UC Berkeley
 
 ## CV
-[Here]()
+[Here](CV.pdf)
 
 ## Contact
 [fli@chla.usc.edu](mailto:fli@chla.usc.edu)
