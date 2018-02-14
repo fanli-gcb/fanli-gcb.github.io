@@ -1,0 +1,33 @@
+---
+---
+@import "{{ site.theme }}";
+
+ul.big {
+	font-size: 16px;
+}
+
+img.whitespace {
+	margin-right: 20px;
+}
+
+img.whitespace2 {
+	margin-top: 5px;
+}
+
+section.nav {
+  width:10%;
+  float:left;
+  padding-bottom:50px;
+  padding-top:50px;
+}
+
+section {
+  width:80%;
+  float:right;
+  padding-bottom:50px;
+  padding-top:50px;
+}
+
+h3.link {
+	color:#333333;
+}
