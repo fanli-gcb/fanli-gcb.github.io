@@ -2,8 +2,26 @@
 ---
 @import "{{ site.theme }}";
 
-ul.big {
+div {
 	font-size: 16px;
+	line-height: 1.5;
+	color: #555555;
+}
+
+a.site-nav {
+	color: black;
+	text-decoration: none;
+}
+
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+	text-decoration: none;
 }
 
 img.whitespace {
@@ -14,13 +32,6 @@ img.whitespace2 {
 	margin-top: 5px;
 }
 
-section.nav {
-  width:10%;
-  float:left;
-  padding-bottom:50px;
-  padding-top:50px;
-}
-
 section {
   width:80%;
   float:right;
@@ -28,6 +39,42 @@ section {
   padding-top:50px;
 }
 
-h3.link {
-	color:#333333;
+.site-nav .navlink {
+	display: inline-block;
+	vertical-align: middle;
+	color: #bbbbbb;
+  margin-right: 48px;
+  font-size: 18px;
+}
+
+.navlink-left {
+	width: 80%;
+	float: left;
+}
+
+.navlink-right {
+	margin-left: 80%;
+	text-align: right;
+}
+
+.altmetric-embed {
+	width: 10%;
+	float: left;
+}
+
+.pub-entry {
+	margin-left: 10%;
+	text-align: left;
+}
+
+.pub-outer {
+	padding-bottom: 20px;
+}
+
+.div-bar {
+	border-bottom: 1px solid #e0e0e0;
+}
+
+.media-image {
+	margin-right: 2px;
 }

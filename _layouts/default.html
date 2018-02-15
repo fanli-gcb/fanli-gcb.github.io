@@ -10,20 +10,20 @@
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
     <title>{{ site.title | default: site.github.repository_name }}</title>
+    
+    <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+    
   </head>
 
   <body>
 
     <!-- HEADER -->
-
+  	
     <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-    	<section id="sidebar" class="nav">
-    		{% include nav.html %}
-    	</section>
-      <section id="main_content" class="inner">
-        {{ content }}
-      </section>
+    <div class="wrapper">
+      <p>{% include nav.html %}</p>
+      <p>{% include bar.html %}</p>
+      {{ content }}
     </div>
 
     <!-- FOOTER  -->
