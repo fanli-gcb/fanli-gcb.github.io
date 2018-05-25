@@ -6,13 +6,18 @@ layout: default
 ### Microbiome/metagenomics
 
 <div class="pub-outer">
-<div class='altmetric-embed' data-badge-type='donut' data-doi=""></div>
-<div class="pub-entry"><p>Tobin NH, Woodward C, Zabih S, Lee DJ, <b>Li F</b>, and Aldrovandi GM. <a href="https://doi.org/" target="_blank">A method for targeted 16S sequencing of human milk samples</a>, <i>J Vis Exp, in press</i>.</p></div>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1097/MPG.0000000000002034"></div>
+<div class="pub-entry"><p>Kordy K, Romeo AC, Lee DJ, <b>Li F</b>, Zabih S, Saavedra M, Cunningham NH, Tobin NH, and Aldrovandi GM. <a href="https://doi.org/10.1097/MPG.0000000000002034" target="_blank">Combination antibiotics improves disease activity and alters microbial communities in children with ulcerative colitis</a>, <i>J Pediatr Gastroenterol Nutr</i>, 2018.</p></div>
+</div>
+
+<div class="pub-outer">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.3791/56974"></div>
+<div class="pub-entry"><p>Tobin NH, Woodward C, Zabih S, Lee DJ, <b>Li F</b>, and Aldrovandi GM. <a href="https://doi.org/10.3791/56974" target="_blank">A method for targeted 16S sequencing of human milk samples</a>, <i>J Vis Exp</i>, 2018.</p></div>
 </div>
 
 <div class="pub-outer">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/mBio.02217-17"></div>
-<div class="pub-entry"><p>Lee HR, <b>Li F</b>, Choi UY, Yu HR, Aldrovandi GM, Feng P, Gao SJ, Hong YK, and Jung J. <a href="https://doi.org/10.1128/mBio.02217-17" target="_blank">Deregulation of HDAC5 by vIRF3 plays an essential role in the Kaposi Sarcoma-associated herpesvirus-induced lymphangiogenesis</a>, <i>mBio, in press</i>.</p></div>
+<div class="pub-entry"><p>Lee HR, <b>Li F</b>, Choi UY, Yu HR, Aldrovandi GM, Feng P, Gao SJ, Hong YK, and Jung J. <a href="https://doi.org/10.1128/mBio.02217-17" target="_blank">Deregulation of HDAC5 by vIRF3 plays an essential role in the Kaposi Sarcoma-associated herpesvirus-induced lymphangiogenesis</a>, <i>mBio</i>, 2018.</p></div>
 </div>
 
 <div class="pub-outer">
@@ -26,6 +31,11 @@ layout: default
 </div>
 
 ### Infectious diseases
+
+<div class="pub-outer">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/ofid/ofy114"></div>
+  <div class="pub-entry"><p>Fang X, Xu M, Fang Q, Tan H, Zhou J, Li Z, <b>Li F</b>, and Yang S. <a href="https://doi.org/10.1093/ofid/ofy114" target="_blank">Real-time utilization of metagenomics sequencing in the diagnosis and treatment monitoring of an invasive adenovirus B55 infection and subsequent herpes simplex virus encephalitis in an immunocompetent young adult</a>, <i>Open Forum Infect Dis</i>, 2018.</p></div>
+</div>
 
 <div class="pub-outer">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/cid/ciw876"></div>
