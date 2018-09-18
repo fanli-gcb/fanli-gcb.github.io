@@ -6,6 +6,11 @@ layout: default
 ### Microbiome/metagenomics
 
 <div class="pub-outer">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1186/s40168-018-0543-z"></div>
+<div class="pub-entry"><p>Bender JM, <b>Li F</b>, Adisetiyo H, Lee D, Zabih S, Hung L, Wilkinson TA, Pannaraj PS, She RC, Dien-Bard J, Tobin NH, and Aldrovandi GM. <a href="https://doi.org/10.1186/s40168-018-0543-z" target="_blank">Quantification of variation and the impact of biomass in targeted 16S rRNA gene sequencing studies</a>, <i>Microbiome</i>, 2018.</p></div>
+</div>
+
+<div class="pub-outer">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1097/MPG.0000000000002034"></div>
 <div class="pub-entry"><p>Kordy K, Romeo AC, Lee DJ, <b>Li F</b>, Zabih S, Saavedra M, Cunningham NH, Tobin NH, and Aldrovandi GM. <a href="https://doi.org/10.1097/MPG.0000000000002034" target="_blank">Combination antibiotics improves disease activity and alters microbial communities in children with ulcerative colitis</a>, <i>J Pediatr Gastroenterol Nutr</i>, 2018.</p></div>
 </div>
