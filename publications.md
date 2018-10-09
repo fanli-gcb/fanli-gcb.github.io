@@ -141,6 +141,11 @@ layout: default
 ### Other
 
 <div class="pub-outer">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1803303115"></div>
+<div class="pub-entry"><p>Yang Y, Jang G, Yang X, Wang Q, He S, Li S, Quach C, Zhao S, <b>Li F</b>, Yuan Z, Lee HR, Zhong H, and Liang C. <a href="https://doi.org/10.1073/pnas.1803303115" target="_blank">Central role of autophagic UVRAG in melanogenesis and the suntan response</a>, <i>PNAS</i>, 2018.</p></div>
+</div>
+
+<div class="pub-outer">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/leu.2017.70"></div>
 <div class="pub-entry"><p>Ha VL, Luong A, <b>Li F</b>, Casero D, Malvar J, Kim YM, Bhatia R, Crooks GM, and Parekh C. <a href="https://doi.org/10.1038/leu.2017.70" target="_blank">The T-ALL related gene BCL11B regulates the initial stages of human T-cell differentiation</a>, <i>Leukemia</i>, 2017.</p></div>
 </div>
