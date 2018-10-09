@@ -6,6 +6,12 @@ layout: default
 ### Microbiome/metagenomics
 
 <div class="pub-outer">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41467-018-06473-x"></div>
+<div class="pub-entry"><p>Ho NT, <b>Li F</b>, Lee-Sarwar KA, Tun HM, Brown BP, Pannaraj PS, Bender JM, Azad MB, Thompson AL, Weiss ST, Azcarate-Peril MA, Litonjua AA, Kozyrskyj AL, Jaspan HB, Aldrovandi GM, and Kuhn L. <a href="https://doi.org/10.1186/s40168-018-0543-z" target="_blank">Meta-analysis of effects of exclusive breastfeeding on infant gut microbiota across populations</a>, <i>Nature Communications</i>, 2018.</p></div>
+</div>
+
+
+<div class="pub-outer">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1186/s40168-018-0543-z"></div>
 <div class="pub-entry"><p>Bender JM, <b>Li F</b>, Adisetiyo H, Lee D, Zabih S, Hung L, Wilkinson TA, Pannaraj PS, She RC, Dien-Bard J, Tobin NH, and Aldrovandi GM. <a href="https://doi.org/10.1186/s40168-018-0543-z" target="_blank">Quantification of variation and the impact of biomass in targeted 16S rRNA gene sequencing studies</a>, <i>Microbiome</i>, 2018.</p></div>
 </div>
