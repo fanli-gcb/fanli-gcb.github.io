@@ -17,6 +17,11 @@ layout: default
 </div>
 
 <div class="pub-outer">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/infdis/jiy349"></div>
+<div class="pub-entry"><p>Fulcher JA, SK Hussain, Cook R, <b>Li F</b>, Tobin NH, Ragsdale A, Shoptaw S, Gorbach PM, and Aldrovandi GM. <a href="https://doi.org/10.1093/infdis/jiy349" target="_blank">Effects of Substance Use and Sex Practices on the Intestinal Microbiome During HIV-1 Infection</a>, <i>J Infect Dis</i>, 2018.</p></div>
+</div>
+
+<div class="pub-outer">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1097/MPG.0000000000002034"></div>
 <div class="pub-entry"><p>Kordy K, Romeo AC, Lee DJ, <b>Li F</b>, Zabih S, Saavedra M, Cunningham NH, Tobin NH, and Aldrovandi GM. <a href="https://doi.org/10.1097/MPG.0000000000002034" target="_blank">Combination antibiotics improves disease activity and alters microbial communities in children with ulcerative colitis</a>, <i>J Pediatr Gastroenterol Nutr</i>, 2018.</p></div>
 </div>
