@@ -6,10 +6,19 @@ layout: default
 ### Microbiome/metagenomics
 
 <div class="pub-outer">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1097/QAD.0000000000002132"></div>
+<div class="pub-entry"><p>Cook RR, Fulcher JA, Tobin NH, <b>Li F</b>, Lee D, Javanbakht M, Brookmeyer R, Shoptaw S, Bolan R, Aldrovandi GM, and Gorbach PM. <a href="https://doi.org/10.1097/QAD.0000000000002132" target="_blank">Effects of HIV viremia on the gastrointestinal microbiome of young men who have sex with men</a>, <i>AIDS</i>, 2019.</p></div>
+</div>
+
+<div class="pub-outer">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1002/mnfr.201801184"></div>
+<div class="pub-entry"><p>Blazenovic I, Oh YT, <b>Li F</b>, Ji J, Nguyen AK, Wancewicz B, Bender JM, Fiehn O, and Youn HJ. <a href="https://doi.org/10.1002/mnfr.201801184" target="_blank">Effects of Gut Bacteria Depletion and High‐Na+ and Low‐K+ Intake on Circulating Levels of Biogenic Amines</a>, <i>Molecular Nutrition & Food Research</i>, 2018.</p></div>
+</div>
+
+<div class="pub-outer">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41467-018-06473-x"></div>
 <div class="pub-entry"><p>Ho NT, <b>Li F</b>, Lee-Sarwar KA, Tun HM, Brown BP, Pannaraj PS, Bender JM, Azad MB, Thompson AL, Weiss ST, Azcarate-Peril MA, Litonjua AA, Kozyrskyj AL, Jaspan HB, Aldrovandi GM, and Kuhn L. <a href="https://doi.org/10.1038/s41467-018-06473-x" target="_blank">Meta-analysis of effects of exclusive breastfeeding on infant gut microbiota across populations</a>, <i>Nature Communications</i>, 2018.</p></div>
 </div>
-
 
 <div class="pub-outer">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1186/s40168-018-0543-z"></div>
