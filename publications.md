@@ -6,6 +6,11 @@ layout: default
 ### Microbiome/metagenomics
 
 <div class="pub-outer">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1186/s12859-019-2744-2"></div>
+  <div class="pub-entry"><p>Ho NT, <b>Li F</b>, Wang S, and Kuhn L. <a href="https://doi.org/10.1186/s12859-019-2744-2" target="_blank">metamicrobiomeR: an R package for analysis of microbiome relative abundance data using zero-inflated beta GAMLSS and meta-analysis across studies using random effects models</a>, <i>BMC Bioinformatics</i>, 2019.</p></div>
+</div>
+
+<div class="pub-outer">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1097/QAD.0000000000002132"></div>
 <div class="pub-entry"><p>Cook RR, Fulcher JA, Tobin NH, <b>Li F</b>, Lee D, Javanbakht M, Brookmeyer R, Shoptaw S, Bolan R, Aldrovandi GM, and Gorbach PM. <a href="https://doi.org/10.1097/QAD.0000000000002132" target="_blank">Effects of HIV viremia on the gastrointestinal microbiome of young men who have sex with men</a>, <i>AIDS</i>, 2019.</p></div>
 </div>
